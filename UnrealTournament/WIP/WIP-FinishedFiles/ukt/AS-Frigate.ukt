@@ -1,0 +1,45 @@
+﻿[LevelInfo0]
+; EN: Title="Frigate"
+Title="Фрегат"
+IdealPlayerCount="4-8"
+
+[LevelSummary]
+; EN: Title="Frigate"
+Title="Фрегат"
+IdealPlayerCount="4-8"
+
+[FortStandard0]
+; EN: FortName="The Missiles"
+FortName="Ракетний"
+; EN: DestroyedMessage="were launched!"
+DestroyedMessage="постріл здійснено!"
+
+[FortStandard1]
+; EN: FortName="The Ship"
+FortName="На корабель"
+; EN: DestroyedMessage="has been entered!"
+DestroyedMessage="увірвались!"
+
+[FortStandard2]
+; EN: FortName="The Hydraulic Compressor"
+FortName="Гідравлічний компресор"
+; EN: DestroyedMessage="has been destroyed!"
+DestroyedMessage="підірвано!"
+
+[AssaultInfo0]
+; EN: ObjDesc[0]="The door to the ship's control room is controlled by a hydraulic compressor which is located in the aft cabin of the boat. This compressor must be destroyed before the control room can be accessed."
+ObjDesc[0]="Двері до командного відсіку корабля приводяться в дію гідравлічним компресором, який розташований у хвостовому відсіку човна. Цей компресор необхідно знищити, щоб отримати доступ до відсіку керування гарматами."
+; EN: ObjDesc[1]="You must hijack the warship via the dock and find your way to the control room on the top floor of the vessel. There, you will find a red button that will activate the boat's cannons and allow the boat to leave the harbor."
+ObjDesc[1]="Ви повинні викрасти військовий корабель із доку діставшись до командного відсіку розташованого на верхньому поверсі судна. Там знаходиться червона кнопка, натиснувши на яку, ви активуєте корабельні гармати і відкриєте шлях до виходу з гавані."
+
+[ZoneInfo0]
+; EN: ZoneName="Ship mid corridor"
+ZoneName="Центральний відсік корабля"
+
+[WaterZone0]
+; EN: ZoneName="Swimming at the lake"
+ZoneName="Купаючись в озері"
+
+[WaterZone1]
+; EN: ZoneName="Being a horse"
+ZoneName="Прикидаючись конем"
